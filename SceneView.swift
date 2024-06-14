@@ -14,6 +14,6 @@ struct SceneView: UIViewRepresentable {
     }
 
     func updateUIView(_ uiView: SCNView, context: Context) {
-        // 업데이트 로직을 필요에 따라 추가할 수 있습니다.
+        // update logic here
     }
 }
